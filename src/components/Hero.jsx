@@ -25,7 +25,7 @@ const Hero = () => {
             My Name is <span>Prashant Nepal</span>
           </h1>
           <h4 className="md:text-2xl text-lg md:leading-normal leading-5 mt-4 font-bold text-gray-600">
-            I am Fullstack Developer
+            I am IT Recruiter || Full stack Developer || Project Manager
           </h4>
           <button className="btn-primary mt-8">Connect with Me</button>
           <div className="mt-8 text-3xl flex items-center md:justify-start justify-center gap-5">
