@@ -13,7 +13,7 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-300 my-3">
               <p className="text-justify leading-7 w-11/12 mx-auto">
-              Highly motivated and skilled MERN Stack Developer. Proficient in developing efficient and scalable solutions using React.js, Node.js, Express.js, and MongoDB. Passionate about writing clean and maintainable code. Strong problem-solving skills and a keen eye for detail. Eager to take on new challenges and contribute to cutting-edge projects
+             I am an accomplished IT professional with expertise as an IT Recruiter, Full Stack Developer, and Project Manager. My diverse skill set spans talent acquisition, software development, and project leadership, enabling me to deliver innovative solutions and drive successful outcomes. As an IT Recruiter, I specialize in sourcing and hiring top-tier tech talent to meet organizational goals. My proficiency as a Full Stack Developer allows me to create robust, scalable applications, while my project management experience ensures seamless execution of projects, from planning to delivery. Passionate about technology and collaboration, I excel at bridging the gap between technical and business needs to achieve strategic objectives.
               </p>
               <br />
               <br />
